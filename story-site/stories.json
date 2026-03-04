@@ -1,0 +1,28 @@
+[
+  {
+    "id": "girl-in-rain",
+    "title": "The Girl in the Rain",
+    "date": "2026-03-04",
+    "tags": ["Mystery", "Drama"],
+    "cover": "images/cover1.jpg",
+    "excerpt": "A mysterious girl appears in the rain, and the street feels like it’s holding its breath.",
+    "content": [
+      "The rain fell softly across the empty street.",
+      "She appeared through the mist like a memory refusing to fade.",
+      "I should have walked away… but some stories pull you in before you even notice."
+    ]
+  },
+  {
+    "id": "last-train",
+    "title": "The Last Train",
+    "date": "2026-03-01",
+    "tags": ["Thriller", "Supernatural"],
+    "cover": "images/cover2.jpg",
+    "excerpt": "A lonely station. A train that shouldn’t exist. And a ticket with your name on it.",
+    "content": [
+      "The station clock was stuck at 11:11.",
+      "No announcements. No footsteps. Only the humming lights.",
+      "Then the rails began to sing — a sound that meant something was coming."
+    ]
+  }
+]
